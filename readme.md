@@ -5,5 +5,7 @@ click for best wishes in new year!
 This project is based on [LeaferJS][https://www.leaferjs.com] and is licensed under the MIT License. 
 Modifications have been made to the original code.
 
+# Playground environment of LeaferJS
 
+code in [index.ts](./index.ts) 
 
